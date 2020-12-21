@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="26px" height="27px" viewBox="0 0 26 27" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>Group 8</title>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Group-8">
+            <rect id="Rectangle" fill="#FF681F" x="0" y="0" width="26" height="27"></rect>
+            <g id="close" transform="translate(0.000000, 1.000000)" fill="#FFFFFF" fill-rule="nonzero">
+                <polygon id="Rectangle" points="0.625631329 21.3388348 21.8388348 0.125631329 25.3743687 3.66116524 4.16116524 24.8743687"></polygon>
+                <polygon id="Rectangle" points="4.16116524 0.125631329 25.3743687 21.3388348 21.8388348 24.8743687 0.625631329 3.66116524"></polygon>
+            </g>
+        </g>
+    </g>
+</svg>
