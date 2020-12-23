@@ -260,8 +260,14 @@ margin-top: -70px;
 	p.lead { font-size: 21px; line-height: 27px; color: #777;  }
 
 	.callButton {
-		padding: 0px 0 12px;
-		color: #FF681F;
+		padding: 8px 0px 8px 0px;
+		font-weight: bold;
+		text-transform: uppercase;
+		color: white;
+	}
+
+	#our-mission {
+		padding-top: 12px;
 	}
 
 	em { font-style: italic; }
